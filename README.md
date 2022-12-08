@@ -17,3 +17,11 @@ Packages Used:
 4. folium
 5. eart_engine
 6. tqdm
+
+
+**Sample Output:**
+######Dataset:
+![image](https://user-images.githubusercontent.com/109986838/206471223-bf9c4901-0498-4f29-82d4-72d6c804e205.png)
+
+######Graph:
+![visualization (2)](https://user-images.githubusercontent.com/109986838/206471311-e8b367c8-71bc-4c4e-8299-f0e69a08189a.png)
