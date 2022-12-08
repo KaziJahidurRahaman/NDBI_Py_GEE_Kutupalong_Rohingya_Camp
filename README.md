@@ -1,8 +1,11 @@
-# NDBI_Py_GEE_Kutupalong_Rohingya_Camp
+## Normalized Difference Built-up Index (NDBI) Time series analysis using Google Earth Engine Python API
 
-### Normalized Difference Built-up Index (NDBI) Time series analysis using Google Earth Engine Python API
+The notebook contains the code and explainantion for timeseries of Mean, Maximum and Minimum NDBI values. The values are extracted from Landsat 8 Imageries. 
 
-Area of Interest: Kutupalong Rohingya Camp, COxsbazar, Bangladesh
+**Objectives:** 
+1. Generate a time series dataset for different NDBI values
+2. Generate a timeseries graph for the area of interest
+**Area of Interest:** Kutupalong Rohingya Camp, Coxsbazar, Bangladesh
 
 ![image](https://user-images.githubusercontent.com/109986838/206468569-2510dc36-e5a9-4dc6-bd81-457d8ed68cee.png)
 
