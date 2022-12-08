@@ -20,12 +20,9 @@ Packages Used:
 
 
 **Sample Output:**
-<p>
   <strong>Dataset:</strong>
-   ![image](https://user-images.githubusercontent.com/109986838/206472110-b3c3c912-8655-453e-b103-2dc6a912f87f.png)
-</p>
+  ![image](https://user-images.githubusercontent.com/109986838/206472299-625e22f3-5424-4f7e-9bca-2d6de9e8d1f0.png)
 
-<p>
   <strong>Graph:</strong>
-    ![visualization (2)](https://user-images.githubusercontent.com/109986838/206471311-e8b367c8-71bc-4c4e-8299-f0e69a08189a.png)
-</p>
+   ![visualization (2)](https://user-images.githubusercontent.com/109986838/206472374-1ead5745-3091-4fee-b826-5b7ac6b7470e.png)
+
