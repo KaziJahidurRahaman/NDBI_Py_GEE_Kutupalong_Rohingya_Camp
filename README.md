@@ -22,7 +22,7 @@ Packages Used:
 **Sample Output:**
 <p>
   <strong>Dataset:</strong>
-    ![image](https://user-images.githubusercontent.com/109986838/206471223-bf9c4901-0498-4f29-82d4-72d6c804e205.png)
+   ![image](https://user-images.githubusercontent.com/109986838/206472110-b3c3c912-8655-453e-b103-2dc6a912f87f.png)
 </p>
 
 <p>
